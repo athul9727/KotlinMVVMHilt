@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">kotlinmvvmHilt</string>
+    <string name="no_network_connectivity">No Network</string>
+</resources>
